@@ -1,0 +1,12 @@
+Consumer First
+Best use of http status - Response status
+No secure info in URI
+Use plurals
+    prefer /users to /user
+    prefer /users/1 to /user/1
+Use nouns for resources
+For exceptions
+    Define a consistent approach
+    /search
+    PUT /gists/{id}/star
+    DELETE /gists/{id}/star

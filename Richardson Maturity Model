@@ -1,0 +1,17 @@
+Level 0
+Expose SOAP web services in rest style
+Ex: http://server/getPosts
+http://server/deletePosts
+http://server/doThis
+
+Level 1
+Expose resources with proper URI
+Ex: http://server/accounts
+http://server/accounts/10
+
+Level 2 = 1 + Proper HTTP methods
+
+Level 3
+Level 2 + HATEOAS
+Data + Next possible actions
+
